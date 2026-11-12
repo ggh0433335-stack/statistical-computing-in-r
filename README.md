@@ -2,8 +2,6 @@
 
 A collection of three university coursework assignments exploring **probability simulation, statistical inference, and predictive modeling in R**. The exercises use Monte Carlo experiments and linear regression to examine how modeling assumptions affect statistical conclusions and prediction performance.
 
-**Course:** JBM050 – Statistical Computing  
-**Institutions:** Eindhoven University of Technology (TU/e) & Tilburg University  
 **Academic year:** 2026–2027  
 **Language:** R
 
